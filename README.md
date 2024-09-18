@@ -10,10 +10,11 @@ You can see the US Treasury yield curve for two different dates that you choose.
 
 By analyzing the US Treasury Yield curve, you can:
 
-Understand which fixed income trading strategies to choose.
-Understand which stocks to buy: growth, income, or value.
-Understand current [**stock market health and investor confidence**](https://diversset.com/blog/When%20to%20start%20buying%20stocks%20again%20or%20how%20to%20prepare%20to%20catch%20the%20great%20opportunities%20on%20the%20stock%20market)
-Define great long-term entry and exit strategies.
+✅Understand which fixed income trading strategies to choose.
+✅Understand which stocks to buy: growth, income, or value.
+✅Understand current [**stock market health and investor confidence**](https://diversset.com/blog/When%20to%20start%20buying%20stocks%20again%20or%20how%20to%20prepare%20to%20catch%20the%20great%20opportunities%20on%20the%20stock%20market)
+✅Define great long-term entry and exit strategies.
+
 To get practical applications of the US Treasury yield curve, you can read my article devoted to the [**US treasury yield curve**](https://site.financialmodelingprep.com/how-to/How-to-define-investor-confidence-through-US-treasuries-and-one-amazing-bond-trading-strategy) 
 
 And this is how equity (stock) traders can use this app to [**find great shares to buy**](https://medium.com/@Sanji_vals/understanding-the-treasury-yield-curve-and-how-investors-can-use-it-in-stock-trading-a952444ea472)
